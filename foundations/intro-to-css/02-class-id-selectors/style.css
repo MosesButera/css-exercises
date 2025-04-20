@@ -1,0 +1,23 @@
+
+
+.alert-text {
+    color: #ffa07a;
+    font-family: Verdana, DejaVu sans-serif;
+}
+
+.alert-text2 {
+    color: #ffa07a;
+    font-family: Verdana, DejaVu sans-serif;
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(173, 216, 230);
+    font-size: 36px;
+}
+
+#title2 {
+    color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
