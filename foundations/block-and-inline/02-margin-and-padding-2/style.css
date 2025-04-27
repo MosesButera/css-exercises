@@ -1,6 +1,18 @@
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 body {
   background: #eee;
   font-family: sans-serif;
+  
 }
 
 .card {
