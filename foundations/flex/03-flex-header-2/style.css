@@ -54,3 +54,7 @@ ul {
 .left-items {
   display: flex;
 }
+
+.right-items {
+  display: flex;
+}
