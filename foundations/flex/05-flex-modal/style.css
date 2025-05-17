@@ -76,3 +76,7 @@ button.cancel {
   display: flex;
   justify-content: flex-start;
 }
+
+.top  {
+  display: flex;
+}
