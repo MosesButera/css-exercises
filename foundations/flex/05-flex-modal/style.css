@@ -17,7 +17,7 @@ body {
 
 .modal {
   background: white;
-  width: 480px;
+  width: 600px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
@@ -75,6 +75,7 @@ button.cancel {
 .info {
   display: flex;
   justify-content: flex-start;
+  
 }
 
 .top  {
