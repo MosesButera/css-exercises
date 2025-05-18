@@ -26,6 +26,12 @@ input {
   width: 400px;
 }
 
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 .header, .footer {
   display: flex;
   justify-content: space-between;
@@ -52,3 +58,6 @@ a {
   
 }
 
+/* .footer {
+  margin-top: auto;
+} */
