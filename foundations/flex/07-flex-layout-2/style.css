@@ -33,3 +33,7 @@ body {
 .content {
   display: flex;
 }
+
+.cards  {
+  display: flex;
+}
