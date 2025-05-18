@@ -30,10 +30,12 @@ input {
   justify-content: space-between;
 }
 
-.left-links {
+.header .left-links {
   display: flex;
+  gap: 5px;
 }
 
-.right-links {
+.header .right-links {
   display: flex;
+  gap: 5px;
 }
