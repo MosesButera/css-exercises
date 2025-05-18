@@ -32,7 +32,7 @@ input {
   padding: 15px;
 }
 
-.header .left-links {
+.left-links {
   display: flex;
   gap: 15px;
   list-style: none;
@@ -41,7 +41,7 @@ input {
   
 }
 
-.header .right-links {
+.right-links {
   display: flex;
   gap: 15px;
   list-style: none;
